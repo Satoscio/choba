@@ -11,8 +11,3 @@ func Choba(n ChobaInt) {
 	}
 	fmt.Println()
 }
-
-func ToChobaInt(n int) (x ChobaInt) {
-	x = ChobaInt(n)
-	return
-}
