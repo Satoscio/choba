@@ -108,4 +108,5 @@ func GetChobaColor() {
 	;`
 	escape := fmt.Sprintf("%c", 27)
 	img = strings.Replace(img,"\\e", escape, -1)
+	fmt.Println(img)
 }
