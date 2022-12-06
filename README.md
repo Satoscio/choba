@@ -14,4 +14,4 @@
 <br>
 
 ### 2. ChobaFunctions
-    Choba(n int) : Prints 'Choba' n times
+    Choba(n ChobaInt) : Prints 'Choba' n times
