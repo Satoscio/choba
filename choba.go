@@ -2,7 +2,9 @@ package choba
 
 import "fmt"
 
-func Choba() {
-	fmt.Println("test")
-	fmt.Println("provaa")
+func Choba(n int) {
+	for i := 0; i < n; i++ {
+		fmt.Print("Choba")
+	}
+	fmt.Println()
 }
