@@ -11,3 +11,7 @@ func Choba(n ChobaInt) {
 	}
 	fmt.Println()
 }
+
+func Satoscio() {
+	fmt.Println("BOGDAN FEMBOY")
+}
