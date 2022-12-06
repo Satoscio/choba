@@ -1,6 +1,8 @@
 package choba
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func Choba(n ChobaInt) {
 	var i ChobaInt
@@ -8,4 +10,9 @@ func Choba(n ChobaInt) {
 		fmt.Print("Choba")
 	}
 	fmt.Println()
+}
+
+func ToChobaInt(n int) (x ChobaInt) {
+	x = ChobaInt(n)
+	return
 }
