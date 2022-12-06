@@ -17,5 +17,51 @@ func Satoscio() {
 }
 
 func GetChoba() {
-	fmt.Print("WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNNNNNNNNNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWWWWWWNNNNXXXK00OOOOOOOOOO00KKXNNWWWWWWWWWWWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWNNXXKK0OkxdoollllloooooooodxkO0KXXXXXNNWWWWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWNXXXKK0000OkxdoolcllllodoolllllodxOO0KKKKKKXNNNWWWWWWWWWWWWWWWWW\nWWWWWWWWWNWWWWNKK0OOO00kxdoolc::;;;;:::ccc::;::ccodkO0KKKKKKXXXXNNWWWWWWWWWWWWWW\nWWWWWWWWWWWWNKOkkxdoodxoodoc;,''''''''',,''',;;:codkOO00K00KKXXXKKNNWWWWWWWWWWWW\nWWWWWWWWWWNXOdololc::clooddl:,.......',;:::cc;,,,:lxO000O00KKXXXK00KXNWWWWWWWWWW\nWWWWWWWWWN0xc;cc:ccc:::cllodol;'.......',;:coo:;,,',cdkkkO00KK000OkkOKNWWWWWWWWW\nWWWWWWWNXkdc,';:::;;;;;;:cloocc;'.......'',;:lolc;',;:ldxkkOOOkkxxxdod0NWWWWWWWW\nWWWWWWWXkl:'...''''''''''',;;,,,..........''''',,''',:clodxkkkxdxxdddoxKWWWWWWWW\nWWWWWWW0l,'..........................................,:clc::cc,,;ccclllkXWWWWWWW\nWWWWWWNx,...............................................''.........'';:o0NWWWWWW\nWWWWWWXd,.........................................................',,,;ckNWWWWWW\nWWWWWWNx;........''''......''''''................................';:;,:lONWWWWWW\nWWWWWWNO:''...'',;::;,''....,,,,,'''.................',:::;,'....';;;;:lONWWWWWW\nWWWWWWWXd,''..,;:looolcc:;,''''''''',,,,,,,''''',;:clooddolc;,'.''',;;;ckXWWWWWW\nWWWWWWWKl''''';clodxddddddollllccclloooooooooooddddxxxxxxxddlc:,,''''',:dKNWWWWW\nWWWWWWWXd;'',,;lodxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxddooc;,'...,:dKWWWWWW\nWWWWWWWWKo,'',:oddxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxddddddol:,'...':xXWWWWWW\nWWWWWWWWNk;'',:odxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxddddddol;....'cONWWWWWW\nWWWWWWWWW0c,'':odxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdddddddddddddxddddo:....'oKNNWWWWW\nWWWWWWWWWN0o,':oddoooooddddxxxxxxxxxxxxxxxxxddolcccc:::::cldxkxdo:'..,ckKXNWWWWW\nWWWWWWWWWWNXd,,cc:;;;;;;;;:cllodddxxxxxddolc:;,'.'''''',;;:lkOkxo:,,:ldkkOKNWWWW\nWWWWWWWWWWXx:'',,''.........'',,;cooolc:;,'..........''',,,;cdkkdl::clodxOXNWWWW\nWWWWWWWWWXx;''...''.............'',,,,,'................''...;ccoo:,coodx0NWWWWW\nWWWWWWWWWXxl:'..''................,cll:,'.............'......,oOOxl:loodk0NWWWWW\nWWWWWWWWWWNXk;.',,'''...'........'cxxdl;'...'''''''..',,,,,''cOOxxdoddookKNWWWWW\nWWWWWWWWWWWWXx,',;;;,'''''''''...,oxxxdc:,..'''''''..',,','';dkxkkxoodddOXWWWWWW\nWWWWWWWWWWWWWKo,,;;;;,,,,''''..'':dxkxdolc,..''''''''',,,,',lddxOOdloOOkKNWWWWWW\nWWWWWWWWWWWWWN0o;'''''''''....',:oxkkxxdooc;''...'',,''',,:loddkOkdodk0KNWWWWWWW\nWWWWWWWWWWWWWWN0dc;'''......';clodxkkxxddolcc:;;,,'',,,;cloddddkOxdddxOXNWWWWWWW\nWWWWWWWWWWWWWWWXOxddlcc:::cloodddxxkkxxdddollllooooooodddddddddxk0KKKKXNWWWWWWWW\nWWWWWWWWWWWWWWWNXOkxxxxxxxxxxxxxxxkkkkxdddddooooddxxxxxddddddodxOXWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWN0kxkkkkkkxxxxxxxkkkxddooolloodxxxxxxxddddoooox0NWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWXOxxxkkkkxxxxddddxxdoollllooddxxxxxdddddoooodkXWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWXOxxxxxxxxxxddddddoooooooodooooooodooooooood0NWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWXOxxxxdddoooooooooooooolllcccclloooooollloOXWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWXOxxxxddddooooooooooooollooooooooollllldONWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWWXOxxxxxxxxxxxdddoooooodooooooooollllokKNWWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWWWNKkxxxxxxxxxddooooooodddooooollllox0NWWWWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWWWWNXOxxxxkkxxddooooooodddoooolllokKNWWWWWWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWWWWWWNKkxxxxxddddddddooooooollldOXNWWWWWWWWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWWWWWWWNX0xdddddddddddooooolldk0XNWWWWWWWWWWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNX0kxddddddddoodxxk0XNWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNNXXKKKKKKKKKXNNNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\nWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n")
+	fmt.Print(`WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNNNNNNNNNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWWWWWWNNNNXXXK00OOOOOOOOOO00KKXNNWWWWWWWWWWWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWNNXXKK0OkxdoollllloooooooodxkO0KXXXXXNNWWWWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWNXXXKK0000OkxdoolcllllodoolllllodxOO0KKKKKKXNNNWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWNWWWWNKK0OOO00kxdoolc::;;;;:::ccc::;::ccodkO0KKKKKKXXXXNNWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWNKOkkxdoodxoodoc;,''''''''',,''',;;:codkOO00K00KKXXXKKNNWWWWWWWWWWWW\n
+	WWWWWWWWWWNXOdololc::clooddl:,.......',;:::cc;,,,:lxO000O00KKXXXK00KXNWWWWWWWWWW\n
+	WWWWWWWWWN0xc;cc:ccc:::cllodol;'.......',;:coo:;,,',cdkkkO00KK000OkkOKNWWWWWWWWW\n
+	WWWWWWWNXkdc,';:::;;;;;;:cloocc;'.......'',;:lolc;',;:ldxkkOOOkkxxxdod0NWWWWWWWW\n
+	WWWWWWWXkl:'...''''''''''',;;,,,..........''''',,''',:clodxkkkxdxxdddoxKWWWWWWWW\n
+	WWWWWWW0l,'..........................................,:clc::cc,,;ccclllkXWWWWWWW\n
+	WWWWWWNx,...............................................''.........'';:o0NWWWWWW\n
+	WWWWWWXd,.........................................................',,,;ckNWWWWWW\n
+	WWWWWWNx;........''''......''''''................................';:;,:lONWWWWWW\n
+	WWWWWWNO:''...'',;::;,''....,,,,,'''.................',:::;,'....';;;;:lONWWWWWW\n
+	WWWWWWWXd,''..,;:looolcc:;,''''''''',,,,,,,''''',;:clooddolc;,'.''',;;;ckXWWWWWW\n
+	WWWWWWWKl''''';clodxddddddollllccclloooooooooooddddxxxxxxxddlc:,,''''',:dKNWWWWW\n
+	WWWWWWWXd;'',,;lodxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxddooc;,'...,:dKWWWWWW\n
+	WWWWWWWWKo,'',:oddxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxddddddol:,'...':xXWWWWWW\n
+	WWWWWWWWNk;'',:odxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxddddddol;....'cONWWWWWW\n
+	WWWWWWWWW0c,'':odxxxxxxxxxxxxxxxxxxxxxxxxxxxxxdddddddddddddxddddo:....'oKNNWWWWW\n
+	WWWWWWWWWN0o,':oddoooooddddxxxxxxxxxxxxxxxxxddolcccc:::::cldxkxdo:'..,ckKXNWWWWW\n
+	WWWWWWWWWWNXd,,cc:;;;;;;;;:cllodddxxxxxddolc:;,'.'''''',;;:lkOkxo:,,:ldkkOKNWWWW\n
+	WWWWWWWWWWXx:'',,''.........'',,;cooolc:;,'..........''',,,;cdkkdl::clodxOXNWWWW\n
+	WWWWWWWWWXx;''...''.............'',,,,,'................''...;ccoo:,coodx0NWWWWW\n
+	WWWWWWWWWXxl:'..''................,cll:,'.............'......,oOOxl:loodk0NWWWWW\n
+	WWWWWWWWWWNXk;.',,'''...'........'cxxdl;'...'''''''..',,,,,''cOOxxdoddookKNWWWWW\n
+	WWWWWWWWWWWWXx,',;;;,'''''''''...,oxxxdc:,..'''''''..',,','';dkxkkxoodddOXWWWWWW\n
+	WWWWWWWWWWWWWKo,,;;;;,,,,''''..'':dxkxdolc,..''''''''',,,,',lddxOOdloOOkKNWWWWWW\n
+	WWWWWWWWWWWWWN0o;'''''''''....',:oxkkxxdooc;''...'',,''',,:loddkOkdodk0KNWWWWWWW\n
+	WWWWWWWWWWWWWWN0dc;'''......';clodxkkxxddolcc:;;,,'',,,;cloddddkOxdddxOXNWWWWWWW\n
+	WWWWWWWWWWWWWWWXOxddlcc:::cloodddxxkkxxdddollllooooooodddddddddxk0KKKKXNWWWWWWWW\n
+	WWWWWWWWWWWWWWWNXOkxxxxxxxxxxxxxxxkkkkxdddddooooddxxxxxddddddodxOXWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWN0kxkkkkkkxxxxxxxkkkxddooolloodxxxxxxxddddoooox0NWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWXOxxxkkkkxxxxddddxxdoollllooddxxxxxdddddoooodkXWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWXOxxxxxxxxxxddddddoooooooodooooooodooooooood0NWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWXOxxxxdddoooooooooooooolllcccclloooooollloOXWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWXOxxxxddddooooooooooooollooooooooollllldONWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWWXOxxxxxxxxxxxdddoooooodooooooooollllokKNWWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWWWNKkxxxxxxxxxddooooooodddooooollllox0NWWWWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWWWWNXOxxxxkkxxddooooooodddoooolllokKNWWWWWWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWWWWWWNKkxxxxxddddddddooooooollldOXNWWWWWWWWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWWWWWWWNX0xdddddddddddooooolldk0XNWWWWWWWWWWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWWWWWWWWWNX0kxddddddddoodxxk0XNWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWNNXXKKKKKKKKKXNNNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n
+	WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n`)
 }
