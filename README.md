@@ -9,7 +9,7 @@
     ChobaFloat      : float64
     ChobaString     : string
     ChobaRune       : rune
-    Chobyte (Byte)  : byte
+    ChoByte         : byte
     
 <br>
 
