@@ -12,19 +12,26 @@
 ## Features
 
 ### 1. ChobaTypes
-    ChobaInt            : int64
-    ChobaUInt           : uint64
-    ChobaFloat          : float64
-    ChobaString         : string
-    ChobaRune           : rune
-    ChoByte             : byte
+
+|   ChobaType   |  Go Type  |
+| ------------- | --------- |
+| ChobaInt      |   int64   |
+| ChobaUInt     |   uint64  |
+| ChobaFloat    |   float64 |
+| ChobaString   |   string  |
+| ChobaRune     |   rune    |
+| ChoByte       |   byte    |
 
 ### 2. ChobaFunctions
-    Choba(n ChobaInt)           : Prints 'Choba' n times
-    GetChoba()                  : Prints an ASCII art of The Choba      (Terminal needs at least 80 columns to display)
-    GetChobaColor()             : Prints a color ANSI art of The Choba  (This only works on Linux terminals!)
-    TerminalChoba()             : Returns w int with the terminal width in characters
-    ChobaCheck(w int, rw int)   : Returns true if w (width) is >= rw (required width)
+
+|     Function      |   Parameters  |   Returns    |                        Description                     |               Notes               |
+| ----------------- | ------------- | ------------ | ------------------------------------------------------ | --------------------------------- |
+| Choba()           | n ChobaInt    |      N/A     | Prints 'Choba' n times                                 | None                              |
+| GetChoba()        | N/A           |      N/A     | Prints an ASCII art of The Choba                       | 80 columns needed                 |
+| GetChobaColor()   | N/A           |      N/A     | Prints a color ANSI art of The Choba                   | Only works on Linux               |
+| TerminalChoba()   | N/A           |      int     | Returns terminal width int value                       | None                              |
+| ChobaCheck()      | w int, rw int |      bool    | Returns true if w (width) is >= rw (required width)    | To be used with TerminalChoba()   |
+
 
 ### © ChobaSoft 2022
 ### Made with ❤️ from UniMi
