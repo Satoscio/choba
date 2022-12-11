@@ -13,5 +13,4 @@ func Choba(n ChobaInt) {
 // This function will be deleted soon
 func Satoscio() {
 	fmt.Println("BOGDAN FEMBOY")
-
 }
